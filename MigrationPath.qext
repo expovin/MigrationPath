@@ -1,0 +1,16 @@
+{
+	"name": "MigrationPath",
+	"description": "Migration Path",
+	"icon": "bar-chart-horizontal",
+	"type": "visualization",
+	"version": "1.0.0",
+	"author": "ves",
+	"homepage": "https://github.com/expovin/",
+	"keywords": "qlik-sense, visualization",
+	"license": "",
+	"preview" : "highcharts-logo.png",
+	"repository": "https://github.com/expovin/MigrationPath",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
